@@ -1,2 +1,3 @@
-const parth = require("./second")
-console.log("Hello World",parth);
+const lovish = require("./second");
+
+console.log("Hello world", lovish)

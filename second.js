@@ -1,7 +1,11 @@
+// (function(exports, require, module, __filename, __dirname){
+
 harry = {
     name: "Harry",
-    favNum: 77,
-    developer : true
+    favNum: 36,
+    developer: true
 }
-
+// console.log(exports, require, module, __filename, __dirname)
 module.exports = harry;
+    
+// })
